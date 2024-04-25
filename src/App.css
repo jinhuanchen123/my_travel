@@ -1,0 +1,9 @@
+/* Event.css */
+.event-image {
+  width: 300px; /* Set the width of the image */
+}
+
+a {
+  text-decoration: none; /* Remove underline from all links */
+  color: inherit; /* Use the default text color for links */
+}
